@@ -288,20 +288,11 @@ The Spring baseline numbers come from Oliveira et al. (reference [4] in the pape
 - PR text is authored by the respective contributors and remains subject to the licenses of the original repositories.
 - LLM labels and agentic attributes are research annotations produced by a model; they must not be read as ground truth (see the Threats to Validity section of the paper).
 
-## 7. Known limitations of the package
-
-- **Keyword filter (S3).** The script and the keyword list that reduced 63,665 PRs to 38,272 are not included, nor is the list of filtered PRs.
-- **Agreement analysis.** The code for Table III and for the framework-weighted estimates of Section IV-B is not included. Section 5.2 describes how to recompute the coefficients.
-- **Human labeling.** Raters' guidelines and the artifacts shown to them are not included. The identity of the raters behind the columns `nfr_tuple (round 1)` and `nfr_tuple (round 2)` (H1 and H2) is documented only by the counts of labeled PRs.
-- **Hard-coded paths.** `classify_prs.py` and `classify_agentic_text_in_prs.py` read `AutoGen/pulls.csv`; `classify_agentic_nfr_in_prs.py` reads `annotations.csv`. Paths and column names must be adapted before running (see Sections 4.5–4.7).
-- **Prompt of `classify_prs.py`.** The guideline section of this prompt contains a placeholder (`<<< ... >>>`) where the list of examples should appear; [AUTHOR: restore the exact examples used in the study before release].
-- **Non-determinism.** LLM outputs may vary with provider and model version even at temperature 0.
-
-## 8. License
+## 7. License
 
 The code and data of this package are released under the MIT License (see `LICENSE`).
 
-## 9. Citation
+## 8. Citation
 
 ```
 [AUTHOR: add BibTeX entry after the review period]
