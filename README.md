@@ -40,7 +40,6 @@ The per-framework PR counts above match the "Total" column of Table I of the pap
 |------|-------------------|----------|
 | S1 | Project selection (8 AAFs) | Listed in the paper (Section III-C); not scripted |
 | S2 | Data collection (63,665 PRs) | `scripts/collect_pull_requests.py` → `dataset/pull_requests/*/pulls.csv` |
-| S3 | Keyword filter (38,272 PRs) | Not included as a script (see [Section 7](#7-known-limitations-of-the-package)) |
 | S4 | Sampling (1,691 PRs) | `scripts/sample_prs.py`; the resulting sample is the row set of `dataset/results/annotations.csv` |
 | S5 | Human traditional NFR classification (H1, H2) | Columns `nfr_tuple (round 1)` and `nfr_tuple (round 2)` of `annotations.csv` |
 | S6 | LLM traditional NFR classification | `scripts/classify_prs.py` → column `llm` |
