@@ -1,0 +1,141 @@
+nfr,keyword,variants
+Compatibility,backward compatibility,backward compatibility; backwards compatibility
+Compatibility,api compatibility,api compatibility
+Compatibility,dependency update,dependency update; dependency updates
+Compatibility,compatibility,compatibility
+Compatibility,breaking change,breaking change; breaking changes
+Compatibility,backward compatible,backwards compatible; backward compatible
+Compatibility,no breaking changes,no breaking changes
+Compatibility,dependency,dependency; dependencies
+Compatibility,versioning,versioning
+Compatibility,version bump,version bump; version bumps
+Compatibility,python version,python version; python versions
+Compatibility,integration,integration; integrations
+Compatibility,api change,api changes; api change
+Compatibility,model compatibility,model compatibility
+Compatibility,dependency bump,dependency bump; dependency bumps
+Compatibility,version update,version update; version updates
+Compatibility,openai,openai
+Compatibility,json schema,json schema; json schemas
+Compatibility,dependency management,dependency management
+Compatibility,version compatibility,version compatibility
+Reliability,bug fix,bug fix; bug fixes
+Reliability,stability,stability
+Reliability,error handling,error handling
+Reliability,robustness,robustness
+Reliability,unit test,unit tests; unit test
+Reliability,testing,testing
+Reliability,fix,fix; fixes
+Reliability,data integrity,data integrity
+Reliability,integration test,integration tests; integration test
+Reliability,correctness,correctness
+Reliability,test,tests; test
+Reliability,robust,robust
+Reliability,validation,validation; validations
+Reliability,added test,added tests; added test
+Reliability,stable,stable
+Reliability,passing test,passing tests; passing test
+Reliability,exception handling,exception handling
+Reliability,test coverage,test coverage
+Reliability,consistency,consistency
+Reliability,regression test,regression tests; regression test
+Maintainability,documentation,documentation
+Maintainability,refactoring,refactoring; refactorings
+Maintainability,refactor,refactor; refactors
+Maintainability,cleanup,cleanup; cleanups
+Maintainability,dependency update,dependency update; dependency updates
+Maintainability,code structure,code structure
+Maintainability,update,update; updates
+Maintainability,linting,linting
+Maintainability,readability,readability
+Maintainability,dependency management,dependency management
+Maintainability,code clarity,code clarity
+Maintainability,code cleanup,code cleanup
+Maintainability,unit test,unit tests; unit test
+Maintainability,modular,modular
+Maintainability,documentation update,documentation update; documentation updates
+Maintainability,contribution guideline,contribution guidelines; contribution guideline
+Maintainability,style guideline,style guidelines
+Maintainability,configuration,configuration; configurations
+Maintainability,test coverage,test coverage
+Maintainability,modularity,modularity
+Security,security,security
+Security,authentication,authentication
+Security,api key,api key; api keys
+Security,vulnerability,vulnerability; vulnerabilities
+Security,access control,access control; access controls
+Security,security fix,security fix; security fixes
+Security,credential,credentials; credential
+Security,security update,security updates; security update
+Security,cve,cve; cves
+Security,authorization,authorization
+Security,security vulnerability,security vulnerability; security vulnerabilities
+Security,input validation,input validation
+Security,permission,permissions; permission
+Security,security patch,security patch; security patches
+Security,cve fix,cve fix; cve fixes
+Security,secret,secrets; secret
+Security,environment variable,environment variables; environment variable
+Security,vulnerability fix,vulnerability fix; vulnerability fixes
+Security,oauth,oauth
+Security,cryptography,cryptography
+Performance,efficiency,efficiency
+Performance,performance,performance
+Performance,streaming,streaming
+Performance,caching,caching
+Performance,speed,speed
+Performance,async,async
+Performance,optimization,optimization; optimizations
+Performance,efficient,efficient
+Performance,latency,latency
+Performance,asynchronous,asynchronous
+Performance,lazy loading,lazy loading
+Performance,scalable,scalable
+Performance,memory management,memory management
+Performance,timeout,timeout; timeouts
+Performance,non-blocking,non-blocking
+Performance,performance improvement,performance improvement; performance improvements
+Performance,real-time,real-time
+Performance,faster startup,faster startup
+Performance,low latency,low latency
+Performance,resource usage,resource usage
+Observability,logging,logging
+Observability,monitoring,monitoring
+Observability,tracing,tracing
+Observability,metric,metrics; metric
+Observability,observability,observability
+Observability,error message,error message; error messages
+Observability,telemetry,telemetry
+Observability,debugging,debugging
+Observability,metadata,metadata
+Observability,error propagation,error propagation
+Observability,descriptive error,descriptive error; descriptive errors
+Observability,open telemetry,open telemetry
+Observability,visibility,visibility
+Observability,tracking,tracking
+Observability,error logging,error logging
+Observability,warning,warning; warnings
+Observability,usage tracking,usage tracking
+Observability,event tracking,event tracking
+Observability,error reporting,error reporting
+Observability,state tracking,state tracking
+Usability,user experience,user experience
+Usability,documentation,documentation
+Usability,user guide,user guide; user guides
+Usability,developer experience,developer experience
+Usability,clarity,clarity
+Usability,example,examples; example
+Usability,readability,readability
+Usability,user interface,user interface
+Usability,user feedback,user feedback
+Usability,navigation,navigation
+Usability,usage example,usage examples; usage example
+Usability,guide,guides; guide
+Usability,user documentation,user documentation
+Usability,user guidance,user guidance
+Usability,user control,user control; user controls
+Usability,quickstart,quickstart; quickstarts
+Usability,ease of use,ease of use
+Usability,easy to use,easy to use
+Usability,typo fix,typo fix; typo fixes
+Usability,cli,cli
